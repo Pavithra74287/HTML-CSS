@@ -7,4 +7,23 @@
 .header
 {
     height:55px;
+    display:flex;
+    flex-direction:row;
+    justify-content: space-between;
+}
+.left-sec
+{
+    background-color:lightblue;
+    width:150px;
+}
+.middle-sec
+{
+    background-color:lightpink;
+    flex:1;
+    margin-left:70px;
+    margin-right:35px;
+}
+.right-sec
+{
+    background-color:lightblue;
 }
