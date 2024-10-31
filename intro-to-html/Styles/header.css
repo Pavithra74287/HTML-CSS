@@ -9,6 +9,7 @@
 .search-button {
     /* box-sizing: border-box; */
     height:38px; 
+    width:50px;
 }
 .search-box
 {
@@ -43,7 +44,7 @@
 }
 .three-trips
 {
-    height:24px;
+    height:26px;
     margin-left:24px;
     margin-right:24px;
 }
