@@ -1,26 +1,15 @@
- /* .search-box{
-    margin-top:10px;
-    font-size:18px;
-    color:skyblue; 
-    display:block;           
-}  */
-
 .search-box,
-.search-button {
-    /* box-sizing: border-box; */
+.search-button
+ {
     height:38px; 
-    width:50px;
 }
 .search-box
 {
     flex:1;
-    /* height:36px; */
-    /* width:66px; */
     padding-left:10px;
     font-size:16px;
     border-width:1px;
     border-style:solid;
-    /* border-color:rgb(192, 192, 192); */
     border-radius:2px;
     box-shadow:inset 1px 2px 5px rgba(0,0,0,0.05);
 }
@@ -28,7 +17,6 @@
 {
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size:16px;
-
 }
 .header
 {
@@ -44,7 +32,7 @@
 }
 .three-trips
 {
-    height:26px;
+    height:24px;
     margin-left:24px;
     margin-right:24px;
 }
@@ -66,14 +54,10 @@
 {
     padding-top:3px;
     width:64px;
-    /* height:38px; */
-    /* background-color:rgb(120, 118, 118); */
     border-width:1px;
     border-style:solid;
-    /* border-color:rgb(192, 192, 192); */
     margin-left:-5px;
     margin-right:10px;
-    /* border-radius:2px; */
 }
 .icon-search
 {
