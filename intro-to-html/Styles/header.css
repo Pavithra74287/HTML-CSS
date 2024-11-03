@@ -1,13 +1,7 @@
-.search-box{
-    margin-top:10px;
-    font-size:18px;
-    color:skyblue; 
-    display:block;           
-} 
 .search-box,
 .search-button
  {
-    height:36px; 
+    height:34px; 
 }
 .search-box
 {
