@@ -108,3 +108,11 @@ p{
     font-size:16px;
     color:rgb(96,96,96);
 }
+.video-time
+{
+    background-color:black;
+    color:white;
+    position:relative;
+    bottom:50px;
+    right:50px;
+}
